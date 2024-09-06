@@ -1,3 +1,6 @@
 /img
 .env
 .env.local
+/train
+/test
+/validation
